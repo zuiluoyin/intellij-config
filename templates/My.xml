@@ -1,0 +1,8 @@
+<templateSet group="My">
+  <template name="l" value="System.out.println(&quot;$message$&quot;);" description="log with System.out.println()" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
