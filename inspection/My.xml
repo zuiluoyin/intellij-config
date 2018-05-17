@@ -1,4 +1,0 @@
-<profile version="1.0">
-  <option name="myName" value="My" />
-  <inspection_tool class="AlibabaClassMustHaveAuthor" enabled="false" level="MAJOR" enabled_by_default="false" />
-</profile>
