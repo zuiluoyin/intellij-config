@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="20180516094802_drop_column_origin" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
